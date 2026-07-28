@@ -29,9 +29,8 @@
 
 
 
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=tanjila-akter04&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://yourinsights.vercel.app/api/insight?username=tanjila-akter04&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
 </p>
 
 
