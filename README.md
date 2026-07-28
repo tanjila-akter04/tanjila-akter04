@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanjila-akter04&label=Profile%20views&color=0e75b6&style=flat" alt="tanjila-akter04" /> </p>
 
-- 🔭 I’m currently working on **Mern Stack Project**
+- 🔭 I’m currently working on **MernStack Project**
 
-- 🌱 I’m currently learning **Next js**
+- 🌱 I’m currently learning **Next.js**
 
 - 👯 I’m looking to collaborate on **Any Full-Stack Project**
 
-- 💬 Ask me about **Mern Stack**
+- 💬 Ask me about **MernStack**
 
 - 📫 How to reach me **tanjilaakter723874@gmail.com**
 
@@ -37,5 +37,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanjila-akter04&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanjila-akter04&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
 </p>
