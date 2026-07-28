@@ -26,17 +26,16 @@
 
 <hr>
 
-<h2 align="center">📊 GitHub Dashboard</h2>
+
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tanjila-akter04&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanjila-akter04&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tanjila-akter04&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=tanjila-akter04&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=tanjila-akter04&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanjila-akter04&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanjila-akter04&layout=compact&theme=tokyonight" />
 </p>
