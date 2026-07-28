@@ -28,12 +28,10 @@
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanjila-akter04&show_icons=true&theme=tokyonight" />
-</p>
-
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanjila-akter04&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=tanjila-akter04&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
+
